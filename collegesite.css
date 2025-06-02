@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+}
+.image{
+    opacity: 80%;
+    width: 1000px;
+    height: 500px;
+    margin: 50px 100px 20px 300px;
+}
+h1{
+ text-align: center;
+
+}
+.about{
+    font-family: cursive;
+}
+footer{
+    background-color: rgb(160, 216, 216);
+}
+
+footer .contact1{
+    border: 2 solid aliceblue ;
+    padding: 50px;
+    text-decoration: none;
+   display: inline-block;
+   margin-left: 300px;
+}
+
+footer .contact2{
+    display: inline-block;
+    margin-left: 600px;
+
+}
