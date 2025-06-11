@@ -4,8 +4,10 @@
    margin-top: 25px;
    font-family: 'Times New Roman', Times, serif;
    width: auto;
+   height: 500px;
    font-size: 18px;
    color: hsl(0, 0%, 7%);
+   border: 2 solid rgb(246, 27, 27);
 }
 
 .head1{
